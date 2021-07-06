@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+:root{
+    --font-family:'Rubik', sans-serif;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-family);
+}
+
+
+*{
+    box-sizing: border-box;
+}
+.row{
+    background-color: #ebebe0;
+    display: flex;
+    height: 300vh;
+    width: 100%;
+}
+.cup{
+    display: flex;
+    float: right;
+    margin-top: 0px;
+    justify-content: left;
+}
+.ob{
+    font-family: var(--font-family);
+    font-size: 50px;
+    margin-top: 0px;
+    text-align: center;
+}
+.increase{
+    color: #294274;
+    font-size: 40px;
+    padding-left: 65px;
+}
+
+.fries{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    align-content: center;
+    display: flex;
+    justify-content: center;
+}
+
+.box2{
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+    margin-bottom: -35px;
+}
+
+.column{
+    flex: 50%;
+    padding: 10px;
+    height: 100vh;
+    }
+    .dot {
+        border-style: none dashed none none;
+        border-color: #99AABA;
+        margin-top: 20px;
+        /* margin-bottom: 200px; */
+        height: 200vh;
+        position: absolute;
+        left: 50%;
+    }
+
+    .lorem{
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .nearly{
+        font-family: var(--font-family);
+        color: rgb(52, 52, 99);
+        font-size: 30px;
+        margin-top: 10px;
+        margin-left: 70px;
+        padding-left: 20px;
+        margin-bottom: -14px;
+    }
+
+    .fivehund{
+        font-family: var(--font-family);
+      color:#ffd11a ;
+     padding-left: 130px;
+     font-size: 60px;
+     margin-bottom: -35px;
+     
+      
+    }
+
+    .suffer{
+        font-family: var(--font-family);
+        color: turquoise;
+        text-align: right;
+        padding-right: 480px;
+        line-height: 85%;
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+    .ad{
+        font-family: var(--font-family);
+        color:#ffd11a ;
+        font-size: 37px;
+        padding-left: 320px;
+        margin-top: 30px;
+        margin-bottom: -15px;
+    }
+
+    .six5{
+        font-family: var(--font-family);
+        color: rgb(64, 64, 105);
+        font-size: 50px;
+        padding-left: 350px;
+    }
+
+    .man7{
+        width: 250px;
+        height: 80px;
+        margin-top: 0;
+    }
+
+    .eating{
+        font-family: var(--font-family);
+        color: rgb(64, 64, 105);
+       font-size: 40px;
+       padding-left: 20px;
+       margin-top: 13px;
+    }
+
+    .whole{
+        margin-top: 20px;
+        margin-left: 20px;
+        font-family: var(--font-family);
+        color: turquoise;
+        font-size: 40px;
+        text-align: left;
+        font-weight: bold;
+
+    }
+    .hundred{
+        font-family: var(--font-family);
+        color:#ffd11a ;
+        font-size: 40px;
+        display: inline-block;
+        margin-left: 30px;
+    }
+    .bread{
+        padding-right: 200px;
+        
+    }
+
+    .sevenfive{
+        font-family: var(--font-family);
+        color:#ffd11a ;
+        font-size: 40px;
+        display: inline-block;
+        margin-left: 30px;
+    }
+
+    .fifty{
+        font-family: var(--font-family);
+        color:#ffd11a ;
+        font-size: 40px;
+        display: inline-block;
+        margin-left: 30px;
+    }
+
+    .twentyfive{
+        font-family: var(--font-family);
+        color:#ffd11a ;
+        font-size: 40px;
+        display: inline-block;
+        margin-left: 30px;
+    }
+   .heart{
+       margin-right: 0px;
+   }
+
+   .dia{
+       margin-top: 20px;
+       font-size: 40px;
+       font-family: var(--font-family);
+       color: rgb(52, 52, 99);
+       text-align: left;
+   }
+
+   .eightm{
+    font-family: var(--font-family);
+    color:#ffd11a ;
+    padding-left: 205px;
+   }
+
+   .ppl{
+    font-family: var(--font-family);
+    color:#ffd11a ;
+    font-size: 30px;
+   }
+
+   .syrng{
+       margin-top: 40px;
+   }
